@@ -1,3 +1,4 @@
 # JS-Fundamentals
 <p> Javascript basics discussed in the CICS Fundamentals Workshop </p>
-[@etdvprg](https://github.com/etdvprg)
+
+with [@etdvprg](https://github.com/etdvprg)
